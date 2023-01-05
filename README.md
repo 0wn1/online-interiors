@@ -3,10 +3,12 @@
 [![online-interiors](https://media.discordapp.net/attachments/1022674122397986827/1060700236244328468/preview.png "Online-Interiors Rewritten")](https://media.discordapp.net/attachments/1022674122397986827/1060700236244328468/preview.png "Online-Interiors Rewritten")
 **Optimized and rewritten for working with qb-core, qb-menu and PolyZone**
 
-#Dependencies
+# Dependencies
 [qb-core](https://github.com/qbcore-framework/qb-core "qb-core")
 [qb-menu](https://github.com/qbcore-framework/qb-menu "qb-menu")
 [PolyZone](https://github.com/mkafrin/PolyZone/releases "PolyZone")
+
+----------------------
 
 # Online Interiors
 
