@@ -4,9 +4,11 @@
 **Optimized and rewritten for working with qb-core, qb-menu and PolyZone**
 
 # Dependencies
-[qb-core](https://github.com/qbcore-framework/qb-core "qb-core")
-[qb-menu](https://github.com/qbcore-framework/qb-menu "qb-menu")
-[PolyZone](https://github.com/mkafrin/PolyZone/releases "PolyZone")
+- [qb-core](https://github.com/qbcore-framework/qb-core "qb-core")
+
+- [qb-menu](https://github.com/qbcore-framework/qb-menu "qb-menu")
+
+- [PolyZone](https://github.com/mkafrin/PolyZone/releases "PolyZone")
 
 ----------------------
 
