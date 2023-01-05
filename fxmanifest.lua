@@ -1,16 +1,20 @@
 fx_version "cerulean"
 game "gta5"
 
-author "TayMcKenzieNZ"
-description "A FiveM resource adding ipl/map edits, teleports, and blips to the map for FiveM."
+author "Cloudy"
+version "2.2"
+description "A FiveM resource adding ipl/map edits, teleport's, and blips to the map for FiveM."
 repository "https://github.com/TayMcKenzieNZ/online-interiors"
 
-dependencies {"bob74_ipl"}
+dependencies {"PolyZone","bob74_ipl","qb-core","qb-menu"}
 
 
     data_file 'DLC_ITYP_REQUEST' 'stream/Casino Penthouse\vw_vwdlc_int_02.ytyp'
 
 client_scripts {
+	'@PolyZone/client.lua',
+	'@PolyZone/BoxZone.lua',
+	'@PolyZone/ComboZone.lua',
     "client/*.lua",
     "client/maps/after_hours/nightclub/*.lua",
     "client/maps/after_hours/nightclub_exteriors/*.lua",
